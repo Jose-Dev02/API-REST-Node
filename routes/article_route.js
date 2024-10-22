@@ -1,6 +1,6 @@
 const express = require("express");
 const multer = require("multer");
-const ArticleController = require("../controllers/article_controller")
+const ArticleController = require("../controllers/article_controller");
 
 const router = express.Router();
 
